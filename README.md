@@ -1,17 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi,%20I'm%20Joyce!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%7C%20Front-end%20em%20constru%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi,%20I'm%20Joyce!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%7C%20Dev%20J%C3%BAnior%20Front%20End&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+%E2%9C%A8;Aprendendo+Figma+todo+dia+%F0%9F%8E%A8;Migrando+pro+c%C3%B3digo+com+React+%F0%9F%9A%80;Sempre+evoluindo+um+pouco+mais+%F0%9F%92%9C" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/d2ZeZkwzhqRcRS/giphy.gif" width="280">
 </div>
 
 <br>
@@ -48,6 +42,7 @@ const joyce = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
